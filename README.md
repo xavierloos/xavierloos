@@ -2,11 +2,19 @@
 <p align="right">Languages  |  Stats  |  Repos  |  Contact </p>
 
 ![#f03c15](https://placehold.it/1200x350/c5d5dd/FFFFFF/?text=Hi%2C+I%27m+Javier)
-<h3 align="center">I enjoy building, developing and maintaining clean, functional code to ensure products look great whilst being accessible and responsive. I'm lucky to love what I do and enjoy learning new technologies in my free-time, too.</h3>
+<h3 align="center">
+  <br/>
+  <br/>
+  I enjoy building, developing and maintaining clean, functional code to ensure products look great whilst being accessible and responsive. I'm lucky to love what I do and enjoy learning new technologies in my free-time, too.<br/><br/><br/></h3>
+
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Languages+and+Tools)
 
+
+
 <p align="center">
+  <br/>
+  <br/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="80" height="80"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
@@ -14,8 +22,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/>
+  <br/>
+  <br/>
+  <br/>
 </p>
-
 
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=stats)
