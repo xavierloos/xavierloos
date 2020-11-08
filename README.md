@@ -10,7 +10,7 @@
   <p id="languages"></p>
 
 
-![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Languages+and+Tools)
+![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Languages+and+Tools)
 
 <p align="center">
   <br/>
@@ -35,7 +35,7 @@
   <br/>
   <br/>
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloos&layout=compact&theme=radical" />
- <img width="477px" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true&theme=radical" />
+ <img width="467px" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true&theme=radical" />
   <br/>
   <br/>
   <br/>
