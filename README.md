@@ -49,6 +49,9 @@
   <a href="https://github.com/xavierloos/weather" target="_blank">
     <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=weather" />
   </a>
+  <br/>
+  <br/>
+  <br/>
 </p>
 
 
