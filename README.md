@@ -41,10 +41,6 @@
 </p>
 
 <p id="repos"></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 ![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Best+repos)
 
@@ -59,11 +55,11 @@
   <br/>
 </p>
 
-
+<p id="contact"></p>
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Connect+with+me)
 
-<p align="center" id="contact">
+<p align="center">
   <br/>
   <br/>
   <a href="https://codepen.io/xavierloos" target="blank">
