@@ -28,11 +28,6 @@
 </p>
 
 
-
-<h2 align="center">
-  Best Repos:
-</h2>
-
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Best+repos)
 
 <p>
