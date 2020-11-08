@@ -29,7 +29,7 @@
 
 <p id="stats"></p>
 
-![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=stats)
+![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Stats)
 
 <p align="center" style="background-color: #0093E9; background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);">
   <br/>
