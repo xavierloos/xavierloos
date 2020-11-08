@@ -59,6 +59,8 @@
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Connect+with+me)
 
 <p align="center">
+  <br/>
+  <br/>
   <a href="https://codepen.io/xavierloos" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xavierloos" height="50" width="50" />
   </a>
