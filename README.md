@@ -1,5 +1,5 @@
 <h1 align="">JLR </h1> 
-<p align="right">Languages  |  Stats  |  Repos  |  Contact </p>
+<p align="right">Languages  |  Stats  |  Repos  |  <a href="#contact">Contact</a </p>
 
 ![#f03c15](https://placehold.it/1200x350/c5d5dd/FFFFFF/?text=Hi%2C+I%27m+Javier)
 <h3 align="center">
@@ -58,7 +58,7 @@
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Connect+with+me)
 
-<p align="center">
+<p align="center" id="contact">
   <br/>
   <br/>
   <a href="https://codepen.io/xavierloos" target="blank">
