@@ -45,14 +45,17 @@
 
 ![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Best+repos)
 
-<p align="center">
+<p align="justify">
   <br/>
   <br/>
   <a href="https://github.com/xavierloos/ravenous" target="_blank">
-    <img height="aut0" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
+    <img height="aut0" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
   </a>
   <a href="https://github.com/xavierloos/jammming" target="_blank">
-    <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
+  </a>
+  <a href="https://github.com/xavierloos/restaurant" target="_blank">
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=restaurant" />
   </a>
   <br/>
   <br/>
