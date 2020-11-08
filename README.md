@@ -6,11 +6,11 @@
   <br/>
   <br/>
   I enjoy building, developing and maintaining clean, functional code to ensure products look great whilst being accessible and responsive. I'm lucky to love what I do and enjoy learning new technologies in my free-time, too.<br/><br/><br/></h3>
+  
+  <p id="languages"></p>
 
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Languages+and+Tools)
-
-
 
 <p align="center">
   <br/>
@@ -58,7 +58,7 @@
 
 <p id="contact"></p>
 
-![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Connect+with+me)
+![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Connect+with+me)
 
 <p align="center">
   <br/>
