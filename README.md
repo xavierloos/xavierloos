@@ -49,7 +49,10 @@
   <br/>
   <br/>
   <a href="https://github.com/xavierloos/weather" target="_blank">
-    <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=weather" />
+    <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=weather" />
+  </a>
+  <a href="https://github.com/xavierloos/jammming" target="_blank">
+    <img height="150px" width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
   </a>
   <br/>
   <br/>
