@@ -16,9 +16,7 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/>
 </p>
 
-<h2 align="center">
-  Stats:
-</h2>
+
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=stats)
 
