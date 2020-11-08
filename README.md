@@ -31,14 +31,21 @@
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=stats)
 
 <p align="center" style="background-color: #0093E9; background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);">
+  <br/>
+  <br/>
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloos&layout=compact&theme=radical" />
  <img width="477px" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true&theme=radical" />
+  <br/>
+  <br/>
+  <br/>
 </p>
 
 
 ![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Best+repos)
 
 <p>
+  <br/>
+  <br/>
   <a href="https://github.com/xavierloos/weather" target="_blank">
     <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=weather" />
   </a>
