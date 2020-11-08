@@ -45,14 +45,14 @@
 
 ![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Best+repos)
 
-<p>
+<p align="center">
   <br/>
   <br/>
-  <a href="https://github.com/xavierloos/weather" target="_blank">
-    <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=weather" />
+  <a href="https://github.com/xavierloos/ravenous" target="_blank">
+    <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
   </a>
   <a href="https://github.com/xavierloos/jammming" target="_blank">
-    <img height="150px" width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
+    <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
   </a>
   <br/>
   <br/>
