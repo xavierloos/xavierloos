@@ -34,8 +34,8 @@
 <p align="center" style="background-color: #0093E9; background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);">
   <br/>
   <br/>
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloos&layout=compact&theme=radical" />
- <img width="467px" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true&theme=radical" />
+ <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloos&layout=compact&theme=radical" />
+ <img width="457px" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true&theme=radical" />
   <br/>
   <br/>
   <br/>
