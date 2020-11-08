@@ -49,10 +49,10 @@
   <br/>
   <br/>
   <a href="https://github.com/xavierloos/ravenous" target="_blank">
-    <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
+    <img height="aut0" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
   </a>
   <a href="https://github.com/xavierloos/jammming" target="_blank">
-    <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
+    <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
   </a>
   <br/>
   <br/>
