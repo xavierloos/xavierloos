@@ -52,7 +52,7 @@
     <img height="aut0" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
   </a>
   <a href="https://github.com/xavierloos/jammming" target="_blank">
-    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammmming" />
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
   </a>
   <a href="https://github.com/xavierloos/restaurant" target="_blank">
     <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=restaurant" />
