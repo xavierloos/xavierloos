@@ -1,7 +1,7 @@
 <h1 align="">JLR </h1> 
 <p align="right"><a href="#languages">Languages</a>  |   <a href="#stats">Stats</a>  |  <a href="#repos">Repos</a>  |  <a href="#contact">Contact</a </p>
 
-![](https://placehold.it/1200x350/c5d5dd/FFFFFF/?text=Hi%2C+I%27m+Javier)
+![](https://placehold.it/1200x300/374c53/FFFFFF/?text=Hi%2C+I%27m+Javier)
 <h3 align="center">
   <br/>
   <br/>
@@ -10,7 +10,7 @@
   <p id="languages"></p>
 
 
-![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Languages+and+Tools)
+![](https://placehold.it/1200x100/374c53/FFFFFF/?text=Languages+and+Tools)
 
 <p align="center">
   <br/>
@@ -29,7 +29,7 @@
 
 <p id="stats"></p>
 
-![#f03c15](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Stats)
+![#f03c15](https://placehold.it/1200x100/374c53/FFFFFF/?text=Stats)
 
 <p align="center" style="background-color: #0093E9; background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);">
   <br/>
@@ -43,7 +43,7 @@
 
 <p id="repos"></p>
 
-![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Best+repos)
+![](https://placehold.it/1200x100/374c53/FFFFFF/?text=Best+repos)
 
 <p align="justify">
   <br/>
@@ -64,7 +64,7 @@
 
 <p id="contact"></p>
 
-![](https://placehold.it/1200x150/c5d5dd/FFFFFF/?text=Connect+with+me)
+![](https://placehold.it/1200x100/374c53/FFFFFF/?text=Connect+with+me)
 
 <p align="center">
   <br/>
