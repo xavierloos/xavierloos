@@ -34,8 +34,8 @@
 <p align="center" style="background-color: #0093E9; background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);">
   <br/>
   <br/>
- <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloos&layout=compact" />
- <img width="457px" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloos&layout=compact" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=xavierloos&show_icons=true" />
   <br/>
   <br/>
   <br/>
@@ -49,13 +49,13 @@
   <br/>
   <br/>
   <a href="https://github.com/xavierloos/ravenous" target="_blank">
-    <img height="aut0" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
+    <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=ravenous" />
   </a>
   <a href="https://github.com/xavierloos/jammming" target="_blank">
-    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
+    <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=jammming" />
   </a>
   <a href="https://github.com/xavierloos/restaurant" target="_blank">
-    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=restaurant" />
+    <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=restaurant" />
   </a>
   <br/>
   <br/>
