@@ -1,7 +1,6 @@
 <h1 align="">JLR </h1> 
 <p align="right"><a href="#languages">Languages</a>  |   <a href="#stats">Stats</a>  |  <a href="#repos">Repos</a>  |  <a href="#contact">Contact</a </p>
 
-![](https://placehold.it/1200x300/374c53/FFFFFF/?text=Hi%2C+I%27m+Javier)
 <h3 align="center">
   <br/>
   <br/>
@@ -10,7 +9,7 @@
   <p id="languages"></p>
 
 
-![](https://placehold.it/1200x100/374c53/FFFFFF/?text=Languages+and+Tools)
+## Languages and Tools
 
 <p align="center">
   <br/>
