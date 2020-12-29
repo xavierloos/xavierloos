@@ -42,7 +42,7 @@
 
 <p id="repos"></p>
 
-![](https://placehold.it/1200x100/374c53/FFFFFF/?text=Best+repos)
+## Best repos
 
 <p align="justify">
   <br/>
