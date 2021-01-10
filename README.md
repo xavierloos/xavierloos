@@ -11,8 +11,6 @@
 
 ## Languages and Tools
 
-### Front End 
-
 <p align="center">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/bootstrap.svg" alt="bootstrap" height="80" width="80" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/css3.svg" alt="css3" width="80" height="80"/>
