@@ -11,19 +11,17 @@
 
 ## Languages and Tools
 
+### Front End 
+
 <p align="center">
-  <br/>
-  <br/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/>
-  <br/>
-  <br/>
-  <br/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/bootstrap.svg" alt="bootstrap" height="80" width="80" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/css3.svg" alt="css3" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/html5.svg" alt="html5" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/javascript.svg" alt="javascript" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/react.svg" alt="react" width="80" height="80"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/ruby.svg" alt="ruby" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/php.svg" alt="php" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@2.19.0/icons/postgresql.svg" alt="postgresql" width="80" height="80"/>
 </p>
 
 <p id="stats"></p>
