@@ -1,13 +1,13 @@
-<h1 align="">JLR </h1> 
-<p align="right"><a href="#languages">Languages</a>  |   <a href="#stats">Stats</a>  |  <a href="#repos">Repos</a>  |  <a href="#contact">Contact</a </p>
+<p align="center">
+<img src="https://github.com/xavierloos/xavierloos/blob/main/LogoMakr-9Y2ybX.png" alt="logo" width="200" height="150" />
+<br>
+<a href="#languages">Languages</a>  |   <a href="#stats">Stats</a>  |  <a href="#repos">Repos</a>  |  <a href="#contact">Contact</a>
+</p>
 
-<h3 align="center">
-  <br/>
-  <br/>
-  Motivated software developer with an eye for detail and eagerness to learn and deploy new technologies. Enjoys creating, developing and maintaining clean, functional code to assure products look awesome whilst also being accessible and responsive.<br/><br/><br/></h3>
+___
+<h4 align="center"> Motivated software developer with an eye for detail and eagerness to learn and deploy new technologies. Enjoys creating, developing and maintaining clean, functional code to assure products look awesome whilst also being accessible and responsive.</h4>
   
-  <p id="languages"></p>
-
+<p id="languages"></p>
 
 ## Languages and Tools
 
