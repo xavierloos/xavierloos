@@ -4,7 +4,7 @@
 <h3 align="center">
   <br/>
   <br/>
-  I enjoy building, developing and maintaining clean, functional code to ensure products look great whilst being accessible and responsive. I'm lucky to love what I do and enjoy learning new technologies in my free-time, too.<br/><br/><br/></h3>
+  Motivated software developer with an eye for detail and eagerness to learn and deploy new technologies. Enjoys creating, developing and maintaining clean, functional code to assure products look awesome whilst also being accessible and responsive.<br/><br/><br/></h3>
   
   <p id="languages"></p>
 
